@@ -4,3 +4,5 @@ Makefile
 cmake_install.cmake
 *.out
 out
+build/
+.idea/
